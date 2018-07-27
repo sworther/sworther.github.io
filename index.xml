@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Dec 2018 09:55:48 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>古剑3</title>
+      <link>http://localhost:1313/post/%E5%8F%A4%E5%89%913/</link>
+      <pubDate>Tue, 04 Dec 2018 09:55:48 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%8F%A4%E5%89%913/</guid>
+      <description>云无月 我想不断磨练自身，变得更强。 然后呢？ 任何时候，都不会因为自己的无能茫然愤恨。 无非是我不够强大，若是够强，这禁制有算得了什么。 不生则死，</description>
+    </item>
+    
+    <item>
+      <title>Shortcut</title>
+      <link>http://localhost:1313/post/shortcut/</link>
+      <pubDate>Sat, 11 Aug 2018 19:00:03 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/shortcut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生尽欢</title>
+      <link>http://localhost:1313/post/%E7%94%9F%E5%B0%BD%E6%AC%A2/</link>
+      <pubDate>Fri, 10 Aug 2018 18:40:22 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%94%9F%E5%B0%BD%E6%AC%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Iterator</title>
+      <link>http://localhost:1313/post/python-iterator/</link>
+      <pubDate>Thu, 02 Aug 2018 16:39:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/python-iterator/</guid>
+      <description>concept generator vs iterator Every generator is an iterator, but not vice versa itarator vs itarable Iterable的iter方法会返回一个Iterator, Iterator的next方法（Python 2里是</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/post/git/</link>
+      <pubDate>Fri, 27 Jul 2018 15:55:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/git/</guid>
+      <description> howto  Git merge: accept theirs for multiple conflicts
+git merge test-development # Automatic merge failed, a bunch of conflicts! git checkout --theirs ./path git add ./path git commit   commit without message bash git commit -a --allow-empty-message -m &#39;&#39;    </description>
+    </item>
+    
+    <item>
+      <title>The Design of Everyday Things</title>
+      <link>http://localhost:1313/post/the-design-of-everyday-things/</link>
+      <pubDate>Fri, 27 Jul 2018 15:53:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/the-design-of-everyday-things/</guid>
+      <description>A real power tool amplifies the power of its user with little additional effort or instruction. Anyone capable of using screwdriver or drill can use a power screwdriver or power drill. &amp;ndash;Unix haters handbook
+ content toc  The Psychology of everyday actions
+ seven stage:  Goal(form the goal) Plan(the action) Specify(an action sequence) Perform(the action sequence) Percive(the state of the world) Interpret (the perception) Compare(the outcome with the goal)   knowledge in the head and knowledge in the world</description>
+    </item>
+    
+    <item>
+      <title>Philosophies of Life</title>
+      <link>http://localhost:1313/post/philosophies-of-life/</link>
+      <pubDate>Wed, 25 Jul 2018 17:25:14 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/philosophies-of-life/</guid>
+      <description>life The unexamined life is not worth living. What I can&amp;rsquo;t create, I don&amp;rsquo;t understand. 一个人必须自由地再次体验它们以及相反的价值评价——为了最终有权决定取舍。 人的精神有三种境界：骆驼、狮子和婴儿。</description>
+    </item>
+    
+    <item>
+      <title>cs-retrospect</title>
+      <link>http://localhost:1313/post/cs-retrospect/</link>
+      <pubDate>Wed, 25 Jul 2018 12:17:26 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/cs-retrospect/</guid>
+      <description>了解一件事，首先： why what how properties of a true high-level language Elegance: there is a simple, easily understood relationship between the notation used by a high-level language and the concepts expressed. Abstraction: each expression in a high-level language describes one and only one concept. Concepts may be described independently and combined freely. Power: with a high-level language, any precise and complete description of</description>
+    </item>
+    
+    <item>
+      <title>SICP</title>
+      <link>http://localhost:1313/post/sicp/</link>
+      <pubDate>Wed, 25 Jul 2018 01:51:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/sicp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principles of Economics</title>
+      <link>http://localhost:1313/post/principles-of-economics/</link>
+      <pubDate>Wed, 25 Jul 2018 01:42:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/principles-of-economics/</guid>
+      <description> Ten Principles of Economics  How People Make Decisions  People Face Trade-offs The Cost of Something Is What You Give Up to Get It Rational People Think at the Margin People Respond to Incentives  How People Interact  Trade Can Make Everyone Better Off Markets Are Usually a Good Way to Organize Economic Activity Governments Can Sometimes Improve Market Outcomes  How the Economy as a Whole Works  A Country’s Standard of Living Depends on Its Ability to Produce Goods and Services Prices Rise When the Government Prints Too Much Money Society Faces a Short-Run Trade-off between Inflation and Unemployment   </description>
+    </item>
+    
+    <item>
+      <title>editor Cheatsheet</title>
+      <link>http://localhost:1313/post/editor-cheatsheet/</link>
+      <pubDate>Wed, 25 Jul 2018 01:11:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/editor-cheatsheet/</guid>
+      <description>vim ex command pattern # Text Processing Commands - : [ range ] command [ args ... ] # Search and Replace - :[range]s/pattern/replacement[/flags...] # Global Actions - :[range]g/pattern/command # All-Purpose Filter :range!command How do i insert a blank line before every comment (eg “#”) in VIM? :g/^#/norm O This is a shortcut of :global/^#/normal O which means: for each line starting with &amp;lsquo;#&amp;rsquo; (:global/^#/) do &amp;lsquo;O&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>摘录</title>
+      <link>http://localhost:1313/post/%E6%91%98%E5%BD%95/</link>
+      <pubDate>Tue, 24 Jul 2018 22:38:36 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E6%91%98%E5%BD%95/</guid>
+      <description>homo deus So far we have looked at two of the three practical threats to liberalism: Humans will lose their economic and military usefulness, hence the economic and political system will stop attaching with much value to them The system will still find value in humans collectively, but not in unique individuals The system will still find value in some unique individuals, but there will be a new elite of</description>
+    </item>
+    
+    <item>
+      <title>尼采</title>
+      <link>http://localhost:1313/post/%E5%B0%BC%E9%87%87/</link>
+      <pubDate>Tue, 24 Jul 2018 21:37:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%B0%BC%E9%87%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is a hidden post.</title>
+      <link>http://localhost:1313/post/hidden-post/</link>
+      <pubDate>Thu, 08 Mar 2018 17:40:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/hidden-post/</guid>
+      <description>&lt;p&gt;This post is hidden from the home page.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>cli cheatsheet</title>
+      <link>http://localhost:1313/post/cli-cheatsheet/</link>
+      <pubDate>Mon, 11 Dec 2017 17:25:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/cli-cheatsheet/</guid>
+      <description>sed  Matched string notation (&amp;amp;)
+echo this is an example | sed &#39;s/\w\+/[&amp;amp;]/g&#39;   Substring match notation (\1) bash echo this is digit 7 in a number | sed &#39;s/digit \([0-9]\)/\1/&#39; this is 7 in a number   \b usage (b: word boundary marker)
+cat sed_data.txt 11 abc 111 this 9 file contains 111 11 88 numbers 0000  sed -i &#39;s/\b[0-9]\{3\}\b/NUMBER/g&#39; sed_data.txt  cat sed_data.txt 11 abc NUMBER this 9 file contains NUMBER 11 88 numbers 0000  regular expression &#39;\d+(?</description>
+    </item>
+    
+    <item>
+      <title>精进</title>
+      <link>http://localhost:1313/post/%E7%B2%BE%E8%BF%9B/</link>
+      <pubDate>Wed, 22 Nov 2017 01:22:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%B2%BE%E8%BF%9B/</guid>
+      <description>时间 视角混合 时间悖论 闲暇时间的增多，和感觉空闲时间的减少。 时间深度。 选择 标准 最优 VS 满意 两难的决择 内职业生涯 行动 即刻行动 图层工作 复盘 学习 搬运 or</description>
+    </item>
+    
+    <item>
+      <title>life-for-rent</title>
+      <link>http://localhost:1313/post/life-for-rent/</link>
+      <pubDate>Mon, 23 Oct 2017 01:09:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/life-for-rent/</guid>
+      <description>week 9:自从我厌倦了寻找，便学会了找到。 自由的保证是什么?是对自己不再感到羞耻。 也许你感觉自己的努力总是徒劳无功，但不必怀疑，你每天都离顶点更</description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>http://localhost:1313/post/emacs/</link>
+      <pubDate>Thu, 05 Oct 2017 21:46:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/emacs/</guid>
+      <description>info system eg :What is the difference between setq and defvar in Emacs lisp? C-h i, m Elisp choose the Elisp manual i defvar search the index for &amp;ldquo;defvar&amp;rdquo; That&amp;rsquo;s all lexical binding(scope) elisp默认是dynamical scope, 若想使用statical binding</description>
+    </item>
+    
+    <item>
+      <title>tool cheatsheet</title>
+      <link>http://localhost:1313/post/tool-cheatsheet/</link>
+      <pubDate>Wed, 20 Sep 2017 18:06:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/tool-cheatsheet/</guid>
+      <description>manual tool platform tool Windows Zeal Mac OS X Dash cli tool name usage cppman look up cpp function Ncdu disk usage analyzer dstat bettern vmstat substitute ShellCheck a static analysis tool for shell scripts Pathpicker / fpp selecting files out of bash output tmuxp save and import tmux session python plot lib matplotlib pandas seaborn Bokeh python cli tool name usage fire change python script to a cmd glances</description>
+    </item>
+    
+    <item>
+      <title>even preview</title>
+      <link>http://localhost:1313/post/even-preview/</link>
+      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/even-preview/</guid>
+      <description>Copy from 《Hugo 主题 Nuo 文章样式预览》 这篇文章集中说明主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些样式，可以去</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/post/shortcodes/</link>
+      <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/shortcodes/</guid>
+      <description>&lt;h1 id=&#34;center-right-left&#34;&gt;center, right, left&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;## default
+![img](/path/to/img.gif &amp;quot;img&amp;quot;)
+
+{{% center %}}
+## center
+![img](/path/to/img.gif &amp;quot;img&amp;quot;)
+{{% /center %}}
+
+{{% right %}}
+## right
+![img](/path/to/img.gif &amp;quot;img&amp;quot;)
+{{% /right %}}
+
+{{% left %}}
+## left
+![img](/path/to/img.gif &amp;quot;img&amp;quot;)
+{{% /left %}}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>JS Flowchart Diagrams</title>
+      <link>http://localhost:1313/post/js-flowchart-diagrams/</link>
+      <pubDate>Wed, 04 Mar 2015 21:57:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/js-flowchart-diagrams/</guid>
+      <description>&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-flowchart&#34;&gt;st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank]
+e=&amp;gt;end: End:&amp;gt;http://www.google.com
+op1=&amp;gt;operation: My Operation|past
+op2=&amp;gt;operation: Stuff|current
+sub1=&amp;gt;subroutine: My Subroutine|invalid
+cond=&amp;gt;condition: Yes
+or No?|approved:&amp;gt;http://www.google.com
+c2=&amp;gt;condition: Good idea|rejected
+io=&amp;gt;inputoutput: catch something...|request
+
+st-&amp;gt;op1(right)-&amp;gt;cond
+cond(yes, right)-&amp;gt;c2
+cond(no)-&amp;gt;sub1(left)-&amp;gt;op1
+c2(yes)-&amp;gt;io-&amp;gt;e
+c2(no)-&amp;gt;op2-&amp;gt;e
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>JS Sequence Diagrams</title>
+      <link>http://localhost:1313/post/js-sequence-diagrams/</link>
+      <pubDate>Wed, 04 Mar 2015 21:57:45 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/js-sequence-diagrams/</guid>
+      <description>&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-sequence&#34;&gt;Andrew-&amp;gt;China: Says Hello
+Note right of China: China thinks\nabout it
+China--&amp;gt;Andrew: How are you?
+Andrew-&amp;gt;&amp;gt;China: I am good thanks!
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>http://localhost:1313/post/syntax-highlighting/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/syntax-highlighting/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function helloWorld () {
+  alert(&amp;quot;Hello, World!&amp;quot;)
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

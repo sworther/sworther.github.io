@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Jul 2018 16:12:41 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/post/hugo/</link>
+      <pubDate>Fri, 27 Jul 2018 16:12:41 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/hugo/</guid>
+      <description>部署命令 ```bash alias gcn!=&amp;lsquo;git commit -v &amp;ndash;no-edit &amp;ndash;amend&amp;rsquo; alias gpf!=&amp;lsquo;git push &amp;ndash;force&amp;rsquo; alias gcan!=&amp;lsquo;git commit -v -a &amp;ndash;no-edit &amp;ndash;amend&amp;rsquo; alias blog=&amp;lsquo;cd /d/gh-pages/li-hugo &amp;amp;&amp;amp; cd content &amp;amp;&amp;amp; git add -A &amp;amp;&amp;amp; gcan! &amp;amp;&amp;amp; gpf! &amp;amp;&amp;amp; cd .. &amp;amp;&amp;amp; hugo &amp;amp;&amp;amp; cd public &amp;amp;&amp;amp; git add -A &amp;amp;&amp;amp; gcn! &amp;amp;&amp;amp; gpf! &amp;lsquo; alias blog!=&amp;lsquo;cd /d/gh-pages/li-hugo &amp;amp;&amp;amp; cd content &amp;amp;&amp;amp; git add -A &amp;amp;&amp;amp; gcan! &amp;amp;&amp;amp; gpf! &amp;amp;&amp;amp; cd ..</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iedit on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/iedit/</link>
+    <description>Recent content in iedit on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Oct 2017 21:46:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/iedit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emacs</title>
+      <link>http://localhost:1313/post/emacs/</link>
+      <pubDate>Thu, 05 Oct 2017 21:46:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/emacs/</guid>
+      <description>info system eg :What is the difference between setq and defvar in Emacs lisp? C-h i, m Elisp choose the Elisp manual i defvar search the index for &amp;ldquo;defvar&amp;rdquo; That&amp;rsquo;s all lexical binding(scope) elisp默认是dynamical scope, 若想使用statical binding</description>
+    </item>
+    
+  </channel>
+</rss>

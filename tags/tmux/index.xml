@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tmux on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/tmux/</link>
+    <description>Recent content in tmux on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Dec 2017 17:25:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/tmux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cli cheatsheet</title>
+      <link>http://localhost:1313/post/cli-cheatsheet/</link>
+      <pubDate>Mon, 11 Dec 2017 17:25:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/cli-cheatsheet/</guid>
+      <description>sed  Matched string notation (&amp;amp;)
+echo this is an example | sed &#39;s/\w\+/[&amp;amp;]/g&#39;   Substring match notation (\1) bash echo this is digit 7 in a number | sed &#39;s/digit \([0-9]\)/\1/&#39; this is 7 in a number   \b usage (b: word boundary marker)
+cat sed_data.txt 11 abc 111 this 9 file contains 111 11 88 numbers 0000  sed -i &#39;s/\b[0-9]\{3\}\b/NUMBER/g&#39; sed_data.txt  cat sed_data.txt 11 abc NUMBER this 9 file contains NUMBER 11 88 numbers 0000  regular expression &#39;\d+(?</description>
+    </item>
+    
+    <item>
+      <title>tool cheatsheet</title>
+      <link>http://localhost:1313/post/tool-cheatsheet/</link>
+      <pubDate>Wed, 20 Sep 2017 18:06:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/tool-cheatsheet/</guid>
+      <description>manual tool platform tool Windows Zeal Mac OS X Dash cli tool name usage cppman look up cpp function Ncdu disk usage analyzer dstat bettern vmstat substitute ShellCheck a static analysis tool for shell scripts Pathpicker / fpp selecting files out of bash output tmuxp save and import tmux session python plot lib matplotlib pandas seaborn Bokeh python cli tool name usage fire change python script to a cmd glances</description>
+    </item>
+    
+  </channel>
+</rss>

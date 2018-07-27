@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/git/</link>
+    <description>Recent content in git on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Jul 2018 15:55:59 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/post/git/</link>
+      <pubDate>Fri, 27 Jul 2018 15:55:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/git/</guid>
+      <description> howto  Git merge: accept theirs for multiple conflicts
+git merge test-development # Automatic merge failed, a bunch of conflicts! git checkout --theirs ./path git add ./path git commit   commit without message bash git commit -a --allow-empty-message -m &#39;&#39;    </description>
+    </item>
+    
+  </channel>
+</rss>

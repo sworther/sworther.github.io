@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Aug 2018 16:39:32 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/tags/</link>
+      <pubDate>Thu, 02 Aug 2018 16:39:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iterator generator</title>
+      <link>http://localhost:1313/tags/iterator-generator/</link>
+      <pubDate>Thu, 02 Aug 2018 16:39:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/iterator-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Fri, 27 Jul 2018 15:55:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SICP</title>
+      <link>http://localhost:1313/tags/sicp/</link>
+      <pubDate>Wed, 25 Jul 2018 01:51:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/sicp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economics</title>
+      <link>http://localhost:1313/tags/economics/</link>
+      <pubDate>Wed, 25 Jul 2018 01:42:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cheatsheet</title>
+      <link>http://localhost:1313/tags/cheatsheet/</link>
+      <pubDate>Wed, 25 Jul 2018 01:11:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/cheatsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anime</title>
+      <link>http://localhost:1313/tags/anime/</link>
+      <pubDate>Tue, 24 Jul 2018 22:38:36 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>摘录</title>
+      <link>http://localhost:1313/tags/%E6%91%98%E5%BD%95/</link>
+      <pubDate>Tue, 24 Jul 2018 22:38:36 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%91%98%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>尼采</title>
+      <link>http://localhost:1313/tags/%E5%B0%BC%E9%87%87/</link>
+      <pubDate>Tue, 24 Jul 2018 21:37:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%B0%BC%E9%87%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>re</title>
+      <link>http://localhost:1313/tags/re/</link>
+      <pubDate>Mon, 11 Dec 2017 17:25:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sed</title>
+      <link>http://localhost:1313/tags/sed/</link>
+      <pubDate>Mon, 11 Dec 2017 17:25:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tmux</title>
+      <link>http://localhost:1313/tags/tmux/</link>
+      <pubDate>Mon, 11 Dec 2017 17:25:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tmux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emacs-info</title>
+      <link>http://localhost:1313/tags/emacs-info/</link>
+      <pubDate>Thu, 05 Oct 2017 21:46:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/emacs-info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iedit</title>
+      <link>http://localhost:1313/tags/iedit/</link>
+      <pubDate>Thu, 05 Oct 2017 21:46:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/iedit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spacemacs</title>
+      <link>http://localhost:1313/tags/spacemacs/</link>
+      <pubDate>Thu, 05 Oct 2017 21:46:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/spacemacs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

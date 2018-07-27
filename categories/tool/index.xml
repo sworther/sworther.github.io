@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tool on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/categories/tool/</link>
+    <description>Recent content in tool on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Jul 2018 01:11:54 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>editor Cheatsheet</title>
+      <link>http://localhost:1313/post/editor-cheatsheet/</link>
+      <pubDate>Wed, 25 Jul 2018 01:11:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/editor-cheatsheet/</guid>
+      <description>vim ex command pattern # Text Processing Commands - : [ range ] command [ args ... ] # Search and Replace - :[range]s/pattern/replacement[/flags...] # Global Actions - :[range]g/pattern/command # All-Purpose Filter :range!command How do i insert a blank line before every comment (eg “#”) in VIM? :g/^#/norm O This is a shortcut of :global/^#/normal O which means: for each line starting with &amp;lsquo;#&amp;rsquo; (:global/^#/) do &amp;lsquo;O&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>http://localhost:1313/post/emacs/</link>
+      <pubDate>Thu, 05 Oct 2017 21:46:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/emacs/</guid>
+      <description>info system eg :What is the difference between setq and defvar in Emacs lisp? C-h i, m Elisp choose the Elisp manual i defvar search the index for &amp;ldquo;defvar&amp;rdquo; That&amp;rsquo;s all lexical binding(scope) elisp默认是dynamical scope, 若想使用statical binding</description>
+    </item>
+    
+    <item>
+      <title>tool cheatsheet</title>
+      <link>http://localhost:1313/post/tool-cheatsheet/</link>
+      <pubDate>Wed, 20 Sep 2017 18:06:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/tool-cheatsheet/</guid>
+      <description>manual tool platform tool Windows Zeal Mac OS X Dash cli tool name usage cppman look up cpp function Ncdu disk usage analyzer dstat bettern vmstat substitute ShellCheck a static analysis tool for shell scripts Pathpicker / fpp selecting files out of bash output tmuxp save and import tmux session python plot lib matplotlib pandas seaborn Bokeh python cli tool name usage fire change python script to a cmd glances</description>
+    </item>
+    
+  </channel>
+</rss>

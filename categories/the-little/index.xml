@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The little on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/categories/the-little/</link>
+    <description>Recent content in The little on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Jul 2018 12:17:26 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/the-little/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cs-retrospect</title>
+      <link>http://localhost:1313/post/cs-retrospect/</link>
+      <pubDate>Wed, 25 Jul 2018 12:17:26 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/cs-retrospect/</guid>
+      <description>了解一件事，首先： why what how design principle SoC: separation of concerns :: mudularity abstract indirection &amp;gt; All problems in computer science can be solved by another level of indirection, except for the problem of too many layers of indirection. character cache cache, 内存页 DNS缓存， concurrent</description>
+    </item>
+    
+  </channel>
+</rss>

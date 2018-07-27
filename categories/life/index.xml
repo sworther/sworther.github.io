@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/categories/life/</link>
+    <description>Recent content in life on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Oct 2017 01:09:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>life-for-rent</title>
+      <link>http://localhost:1313/post/life-for-rent/</link>
+      <pubDate>Mon, 23 Oct 2017 01:09:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/life-for-rent/</guid>
+      <description>week 9:自从我厌倦了寻找，便学会了找到。 自由的保证是什么?是对自己不再感到羞耻。 也许你感觉自己的努力总是徒劳无功，但不必怀疑，你每天都离顶点更</description>
+    </item>
+    
+  </channel>
+</rss>

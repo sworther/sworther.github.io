@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sed on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/sed/</link>
+    <description>Recent content in sed on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Dec 2017 17:25:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/sed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cli cheatsheet</title>
+      <link>http://localhost:1313/post/cli-cheatsheet/</link>
+      <pubDate>Mon, 11 Dec 2017 17:25:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/cli-cheatsheet/</guid>
+      <description>sed  Matched string notation (&amp;amp;)
+echo this is an example | sed &#39;s/\w\+/[&amp;amp;]/g&#39;   Substring match notation (\1) bash echo this is digit 7 in a number | sed &#39;s/digit \([0-9]\)/\1/&#39; this is 7 in a number   \b usage (b: word boundary marker)
+cat sed_data.txt 11 abc 111 this 9 file contains 111 11 88 numbers 0000  sed -i &#39;s/\b[0-9]\{3\}\b/NUMBER/g&#39; sed_data.txt  cat sed_data.txt 11 abc NUMBER this 9 file contains NUMBER 11 88 numbers 0000  regular expression &#39;\d+(?</description>
+    </item>
+    
+  </channel>
+</rss>

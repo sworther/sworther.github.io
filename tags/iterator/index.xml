@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iterator on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/iterator/</link>
+    <description>Recent content in Iterator on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2017 14:35:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/iterator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>python iterator</title>
+      <link>http://localhost:1313/post/iterator/</link>
+      <pubDate>Mon, 02 Oct 2017 14:35:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/iterator/</guid>
+      <description>concept generator vs iterator Every generator is an iterator, but not vice versa itarator vs itarable Iterable的iter方法会返回一个Iterator, Iterator的next方法（Python 2里是</description>
+    </item>
+    
+  </channel>
+</rss>

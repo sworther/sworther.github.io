@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>economics on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/economics/</link>
+    <description>Recent content in economics on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Jul 2018 01:42:12 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Principles of Economics</title>
+      <link>http://localhost:1313/post/principles-of-economics/</link>
+      <pubDate>Wed, 25 Jul 2018 01:42:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/principles-of-economics/</guid>
+      <description> Ten Principles of Economics  How People Make Decisions  People Face Trade-offs The Cost of Something Is What You Give Up to Get It Rational People Think at the Margin People Respond to Incentives  How People Interact  Trade Can Make Everyone Better Off Markets Are Usually a Good Way to Organize Economic Activity Governments Can Sometimes Improve Market Outcomes  How the Economy as a Whole Works  A Country’s Standard of Living Depends on Its Ability to Produce Goods and Services Prices Rise When the Government Prints Too Much Money Society Faces a Short-Run Trade-off between Inflation and Unemployment   </description>
+    </item>
+    
+  </channel>
+</rss>
