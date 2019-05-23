@@ -13,10 +13,10 @@ deploy:
   local_dir: public # Default static site output dir for Hugo
   repo: sworther/sworther.github.io # This is the slug of the repo you want to deploy your site to
   target_branch: master # GitHub pages branch to deploy to (in other cases it can be gh-pages)
-  provider: pages
+  provider: pages  # 重要，指定这是一份github pages的部署配置
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
   email: 1191240266@qq.com
   name: "sworther"
   on:
-    branch: master
+    branch: hugo  # # 博客源码的分支
